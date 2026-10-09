@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tribo da Arte">
+  <title>Tribo da Arte</title>
+  <circle cx="100" cy="100" r="98" fill="#E8461E"/>
+  <circle cx="100" cy="100" r="79" fill="none" stroke="#FFFFFF" stroke-width="9"/>
+  <g fill="#FFFFFF">
+    <!-- cocar: cinco penas -->
+    <g id="penas">
+      <path transform="translate(86 86) rotate(-96) translate(16 0)" d="M-2 0C7-6 22-6 31 0C22 6 7 6-2 0Z"/>
+      <path transform="translate(86 86) rotate(-119) translate(16 0)" d="M-2 0C7-6 22-6 31 0C22 6 7 6-2 0Z"/>
+      <path transform="translate(86 86) rotate(-142) translate(16 0)" d="M-2 0C7-6 22-6 31 0C22 6 7 6-2 0Z"/>
+      <path transform="translate(86 86) rotate(-165) translate(16 0)" d="M-2 0C7-6 22-6 31 0C22 6 7 6-2 0Z"/>
+      <path transform="translate(86 86) rotate(172) translate(16 0)" d="M-2 0C7-6 22-6 31 0C22 6 7 6-2 0Z"/>
+    </g>
+    <!-- ferramenta-flecha -->
+    <g transform="translate(58 121) rotate(-20)" stroke="#E8461E" stroke-width="3" paint-order="stroke">
+      <rect x="0" y="-6.5" width="82" height="13" rx="6.5"/>
+      <path d="M72 -15L100 0L72 15L77 0Z"/>
+    </g>
+    <!-- cabeça -->
+    <circle cx="86" cy="86" r="21" stroke="#E8461E" stroke-width="3" paint-order="stroke"/>
+    <circle cx="96" cy="83" r="5.4" fill="#E8461E"/>
+    <circle cx="96.6" cy="82.4" r="2" fill="#FFFFFF"/>
+    <!-- oca -->
+    <path d="M56 158C58 138 78 128 100 128C122 128 142 138 144 158Z"/>
+    <path d="M92 158V147A8 8 0 0 1 108 147V158Z" fill="#E8461E"/>
+  </g>
+</svg>

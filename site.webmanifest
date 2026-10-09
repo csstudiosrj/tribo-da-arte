@@ -1,0 +1,13 @@
+{
+  "name": "Tribo da Arte",
+  "short_name": "Tribo da Arte",
+  "description": "Cenografia, esculturas e adereços sob medida.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0908",
+  "theme_color": "#0B0908",
+  "icons": [
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/logo-mark.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
